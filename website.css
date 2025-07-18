@@ -1,0 +1,108 @@
+.HEADER{
+  overflow: auto;
+  background-color: #f1f1f1;
+  position: fixed;
+  width: 100%;
+}
+
+.c-logo{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.c-logo img{
+    width: 50px;
+    height: 50px;
+}
+
+.header-file{
+    float: right;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.header-file a{
+    color: black;
+}
+
+.whatsapp{
+    color: green;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: transparent;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.RED-BUTTON{
+    color: rgb(255, 255, 255);
+    border-color: aqua;
+    border-radius: 5px;
+    background-color: black;
+    padding: 8px;
+    margin-left: 8%;
+    padding-block: 5px;
+    margin-top: 150px;
+}
+
+p{
+    color: white;
+    margin-left: 8%;
+    background-color: rgb(21, 21, 21);
+    width: 700px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.G-BUTTON{
+    color: rgb(255, 255, 255);
+    border-color: aqua;
+    border-radius: 5px;
+    background-color: black;
+    padding: 8px;
+    margin-left: 8%;
+    padding-block: 5px;
+}
+
+.exp-wordpress{
+    display: grid;
+    color: rgb(0, 0, 0);
+    border: 5px;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    width: 20%;
+    margin-top: 20px;
+    padding: 20px;
+    margin-left: 8%;
+    background-color: aqua;
+}
+.experience{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.continar{
+    display: flex;
+    column-gap: 10px;
+}
+
+.FOOTER{
+    background-color: bisque;
+    color: black;
+    padding: 10PX;
+    margin-top: 20px;
+    text-align: center;
+    bottom: 0%;
+    width: 100%;
+}
