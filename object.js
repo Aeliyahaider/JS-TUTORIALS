@@ -20,3 +20,4 @@ let PROFILE = {                     // this is an object a non_premitive data ty
     field: "COMPUTER SCIENCE",
 };
 console.log(PROFILE); // for printing object called PROFILE
+

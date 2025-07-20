@@ -43,3 +43,5 @@ let foodItems = ["APPLE", "BNANA", "BLUE BARRY"];
 foodItems.push("papaya", "orange", "mango");  // to add new values to an array
 console.log(foodItems);
 
+foodItems.pop("mango"); // to delete end items
+console.log(foodItems.toString); // array to string
