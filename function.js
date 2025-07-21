@@ -13,7 +13,7 @@ const sum = (a,b) =>{
 
 sum(7,8);
 
-//function
+//function  print vowels
 function countVOWEL(str) {
     let count = 0;
     for (const char of str){
